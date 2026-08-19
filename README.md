@@ -2,7 +2,7 @@
 
 Full-stack task tracker built with React, Express, MongoDB, and JWT.
 
-Live Application
+# Live Application
 
 https://status-tracker-ochre.vercel.app/login
 
@@ -27,16 +27,16 @@ Features
 * Node.js 18+
 * MongoDB running locally or a MongoDB Atlas URI
 
-Run
+## Run
 
-Backend:
+## Backend:
 open Terminal
 cd server
 cp .env.example .env
 npm install
 npm run dev
 
-Frontend:
+## Frontend:
 open terminal
 cd client
 npm install
