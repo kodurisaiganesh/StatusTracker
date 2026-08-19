@@ -1,4 +1,4 @@
-LiveLink:https://status-tracker-ochre.vercel.app/login
+LiveLink:   https://status-tracker-ochre.vercel.app/login
 # Task Tracker
 
 Full-stack task tracker built with React, Express, MongoDB, and JWT.
@@ -25,7 +25,7 @@ Full-stack task tracker built with React, Express, MongoDB, and JWT.
 ## Run
 
 ### Backend
-```bash
+open terminal
 cd server
 cp .env.example .env
 npm install
@@ -33,7 +33,7 @@ npm run dev
 ```
 
 ### Frontend
-```bash
+opem terminal
 cd client
 npm install
 npm run dev
